@@ -1,4 +1,4 @@
-module github.com/panlw/go-rproxy
+module github.com/panlw/hrp-go
 
 go 1.17
 
